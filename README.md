@@ -36,6 +36,11 @@ Independent studies in Data Science, Computer Science, and Quantitative Finance
 
 ---
 
+## Languages 
+English · Russian · Armenian  
+
+---
+
 ## Contact
 Email: ruben.kostanyan.99@gmail.com  
 LinkedIn: 
