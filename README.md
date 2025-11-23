@@ -43,7 +43,7 @@ English · Russian · Armenian
 
 ## Contact
 Email: ruben.kostanyan.99@gmail.com  
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/ruben-kostanyan-b236b139a
 
 ---
 
