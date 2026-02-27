@@ -17,7 +17,8 @@ I aim to bridge my analytical background with strong technical foundations in co
 
 ## Skills
 - **Programming:** Python, C
-- **Data Bases:** SQL 
+- **Data Bases:** SQL
+- **Machine Learning:** scikit-learn
 - **Data Analysis:** Pandas, NumPy, Matplotlib, data visualization  
 - **Computer Science Fundamentals:** computer architecture, computer networks, operating systems, algorithms and complexity  
 - **Tools:** Linux terminal, Git, Jupyter Notebook  
